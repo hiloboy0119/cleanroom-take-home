@@ -1,0 +1,3 @@
+{
+  "sql": "CREATE TEMP TABLE foo(x INT64); SELECT name AS new_name FROM test_dataset.simple_table WHERE name = 'test';"
+}

@@ -1,0 +1,3 @@
+{
+  "sql": "SELECT name AS new_name FROM test_dataset.simple_table WHERE name = 'test'"
+}

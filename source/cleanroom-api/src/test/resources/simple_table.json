@@ -1,0 +1,17 @@
+[
+  {
+    "name": "name",
+    "type": "STRING",
+    "mode": "NULLABLE"
+  },
+  {
+    "name": "pineapples",
+    "type": "INTEGER",
+    "mode": "NULLABLE"
+  },
+  {
+    "name": "bananas",
+    "type": "INTEGER",
+    "mode": "NULLABLE"
+  }
+]

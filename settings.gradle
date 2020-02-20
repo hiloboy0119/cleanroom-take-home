@@ -1,0 +1,3 @@
+rootProject.name = 'gcp-cleanroom'
+include 'source:cleanroom-api'
+
